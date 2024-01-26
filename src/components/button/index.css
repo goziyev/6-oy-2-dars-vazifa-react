@@ -1,0 +1,20 @@
+.main-btn{
+  color: #1875FF;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  width: 170px;
+  line-height: normal;
+  border-radius: 20px;
+background: #FFF;
+padding: 15px 25px;
+border:2px solid transparent;
+border-color: transparent;
+transition: all 0.5s linear;
+}
+.main-btn:hover{
+    border-color:white;
+    background-color: transparent;
+    color:white;
+    cursor: pointer;
+}
